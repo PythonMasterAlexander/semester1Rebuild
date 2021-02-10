@@ -63,54 +63,24 @@ main section {
 
 /*Footer*/
 
-footer {
-  border-top: solid 8px #0CCAF3;
-  min-height: 200px;
-  clear: both;
+.site-logo {
+
 }
 
-footer li {
-  display: block; 
-  padding: 0px;
+.col1 {
+
 }
 
-footer img, footer ul {
-  min-width: 20%;
-  padding-top: 50px;
-  padding-left: 8%;
-} 
-
-footer a {
-  font-size: 16px;
+.col2 {
+  
 }
 
-footer h4  {
-  padding-bottom: 15px;
+.col3 {
+
 }
 
-.footer__img--section-one {
-  min-width: 10%;
-  float: left;
-}
+.col4 {
 
-.footer__ul--section-two li {
-  padding-bottom: 15px;
-}
-
-.footer__ul--section-three li, .footer__ul--section-four li {
-  padding-bottom: 95px;
-}
-
-.footer__ul--section-two {
-  float: left;
-}
-
-.footer__ul--section-three  {
-  float: left;
-}
-
-.footer__ul--section-four {
-  float: right;
 }
 
 /*Tablet Style*/
